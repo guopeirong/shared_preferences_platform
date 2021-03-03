@@ -1,0 +1,2 @@
+# shared_preferences_platform
+shared_preferences_platform_interface
